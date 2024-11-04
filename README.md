@@ -37,6 +37,10 @@ en cuanto a los xml, utilizamos botones eh imagenes asi mismo como, <LinearLayou
 [RomoCamposLuisAngel_5CV50_Transicion para animaciones Suaves.zip](https://github.com/user-attachments/files/17612835/RomoCamposLuisAngel_5CV50_Transicion.para.animaciones.Suaves.zip)
 
 
+https://github.com/user-attachments/assets/478c3a83-f227-4c52-ad27-821f45f1453e
+
+
+
 ![20241103183820](https://github.com/user-attachments/assets/314645d7-b151-459d-aedb-d9b86538ab84)
 
 
